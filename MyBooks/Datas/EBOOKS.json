@@ -1,0 +1,947 @@
+[
+  {
+    "status" : "Leído",
+    "author" : "Connelly, Michael",
+    "pages" : 350,
+    "id" : 1,
+    "bookTitle" : "Deuda de sangre",
+    "year" : 1998,
+    "originalTitle" : "Blood work"
+  },
+  {
+    "status" : "Leído",
+    "author" : "Christie, Agatha",
+    "pages" : 198,
+    "id" : 2,
+    "bookTitle" : "Asesinato en Bardsley Mews",
+    "year" : 1937,
+    "originalTitle" : "Murder in the mews"
+  },
+  {
+    "status" : "Leído",
+    "author" : "Christie, Agatha",
+    "pages" : 198,
+    "id" : 3,
+    "bookTitle" : "Después del funeral",
+    "year" : 1953,
+    "originalTitle" : "After the funeral"
+  },
+  {
+    "status" : "Registrado",
+    "author" : "Christie, Agatha",
+    "pages" : 200,
+    "id" : 4,
+    "bookTitle" : "Cianuro espumoso",
+    "year" : 1945,
+    "originalTitle" : "Sparkling canide"
+  },
+  {
+    "status" : "Registrado",
+    "author" : "Christie, Agatha",
+    "pages" : 204,
+    "id" : 5,
+    "bookTitle" : "Muerte en la vicaría",
+    "year" : 1930,
+    "originalTitle" : "Murder at the vicarage, The"
+  },
+  {
+    "status" : "Registrado",
+    "author" : "Christie, Agatha",
+    "pages" : 212,
+    "id" : 6,
+    "bookTitle" : "misterioso Sr Brown, El",
+    "year" : 1922,
+    "originalTitle" : "Secret adversary, The"
+  },
+  {
+    "status" : "Registrado",
+    "author" : "Christie, Agatha",
+    "pages" : 168,
+    "id" : 7,
+    "bookTitle" : "cuatro grandes, Los",
+    "year" : 1927,
+    "originalTitle" : "Big Four, The"
+  },
+  {
+    "status" : "Leído",
+    "author" : "Christie, Agatha",
+    "pages" : 232,
+    "id" : 8,
+    "bookTitle" : "testigo mudo, El",
+    "year" : 1937,
+    "originalTitle" : "Dumb witness"
+  },
+  {
+    "status" : "Registrado",
+    "author" : "Christie, Agatha",
+    "pages" : 212,
+    "id" : 9,
+    "bookTitle" : "misterio del tren azul, El",
+    "year" : 1928,
+    "originalTitle" : "Mistery of the blue train, The"
+  },
+  {
+    "status" : "Registrado",
+    "author" : "Christie, Agatha",
+    "pages" : 230,
+    "id" : 10,
+    "bookTitle" : "Sangre en la piscina",
+    "year" : 1946,
+    "originalTitle" : "Hollow, The"
+  },
+  {
+    "status" : "Leído",
+    "author" : "Connelly, Michael",
+    "pages" : 276,
+    "id" : 11,
+    "bookTitle" : "Luz perdida",
+    "year" : 2003,
+    "originalTitle" : "Lost light"
+  },
+  {
+    "status" : "Leído",
+    "author" : "Crichton, Michael",
+    "pages" : 156,
+    "id" : 12,
+    "bookTitle" : "Devoradores de cadáveres",
+    "year" : 1976,
+    "originalTitle" : "Eaters of the dead"
+  },
+  {
+    "status" : "Leído",
+    "author" : "Connelly, Michael",
+    "pages" : 304,
+    "id" : 13,
+    "bookTitle" : "Ciudad de huesos",
+    "year" : 2002,
+    "originalTitle" : "City of bones"
+  },
+  {
+    "status" : "Leído",
+    "author" : "Connelly, Michael",
+    "pages" : 297,
+    "id" : 14,
+    "bookTitle" : "Cauces de maldad",
+    "year" : 2004,
+    "originalTitle" : "Narrows, The"
+  },
+  {
+    "status" : "Leído",
+    "author" : "Connelly, Michael",
+    "pages" : 311,
+    "id" : 15,
+    "bookTitle" : "Último recurso",
+    "year" : 2005,
+    "originalTitle" : "Closers, The"
+  },
+  {
+    "status" : "Registrado",
+    "author" : "Christie, Agatha",
+    "pages" : 204,
+    "id" : 16,
+    "bookTitle" : "Pasajero para Francfort",
+    "year" : 1970,
+    "originalTitle" : "Passenger to Frankfurt"
+  },
+  {
+    "status" : "Leído",
+    "author" : "Harris, Robert",
+    "pages" : 332,
+    "id" : 17,
+    "bookTitle" : "Enigma",
+    "year" : 1995,
+    "originalTitle" : "Enigma"
+  },
+  {
+    "status" : "Leído",
+    "author" : "Fleming, Ian",
+    "pages" : 235,
+    "id" : 18,
+    "bookTitle" : "Moonraker",
+    "year" : 1955,
+    "originalTitle" : "Moonraker"
+  },
+  {
+    "status" : "Leído",
+    "author" : "Doyle, Arthur Conan",
+    "pages" : 134,
+    "id" : 19,
+    "bookTitle" : "signo de los Cuatro, El",
+    "year" : 1890,
+    "originalTitle" : "Sign of the Four, The"
+  },
+  {
+    "status" : "Leído",
+    "author" : "Christie, Agatha",
+    "pages" : 177,
+    "id" : 20,
+    "bookTitle" : "Triste ciprés, Un",
+    "year" : 1940,
+    "originalTitle" : "Sad cypress"
+  },
+  {
+    "status" : "Registrado",
+    "author" : "Christie, Agatha",
+    "pages" : 171,
+    "id" : 21,
+    "bookTitle" : "Tragedia en tres actos",
+    "year" : 1935,
+    "originalTitle" : "Three act tragedy"
+  },
+  {
+    "status" : "Registrado",
+    "author" : "Christie, Agatha",
+    "pages" : 216,
+    "id" : 22,
+    "bookTitle" : "Se anuncia un asesinato",
+    "year" : 1950,
+    "originalTitle" : "Murder is announced, A"
+  },
+  {
+    "status" : "Registrado",
+    "author" : "Christie, Agatha",
+    "pages" : 172,
+    "id" : 23,
+    "bookTitle" : "Un puñado de centeno",
+    "year" : 1953,
+    "originalTitle" : "Pocket full of rye, A"
+  },
+  {
+    "status" : "Leído",
+    "author" : "Christie, Agatha",
+    "pages" : 156,
+    "id" : 24,
+    "bookTitle" : "Un cadáver en la biblioteca",
+    "year" : 1942,
+    "originalTitle" : "Body in the library, The"
+  },
+  {
+    "status" : "Leído",
+    "author" : "Christie, Agatha",
+    "pages" : 167,
+    "id" : 25,
+    "bookTitle" : "Tres ratones ciegos",
+    "year" : 1950,
+    "originalTitle" : "Three blind mice and other stories"
+  },
+  {
+    "status" : "Leído",
+    "author" : "Poe, Edgar Allan",
+    "pages" : 35,
+    "id" : 26,
+    "bookTitle" : "gato negro, El",
+    "year" : 1843,
+    "originalTitle" : "Black cat, The"
+  },
+  {
+    "status" : "Leído",
+    "author" : "Moore, Christopher",
+    "pages" : 337,
+    "id" : 27,
+    "bookTitle" : "Un trabajo muy sucio",
+    "year" : 2006,
+    "originalTitle" : "Dirty job, A"
+  },
+  {
+    "status" : "No leído",
+    "author" : "Negrete, Javier",
+    "pages" : 407,
+    "id" : 28,
+    "bookTitle" : "Roma victoriosa",
+    "year" : 2011,
+    "originalTitle" : "Roma victoriosa"
+  },
+  {
+    "status" : "Leído",
+    "author" : "Manchette, Jean-Patrick",
+    "pages" : 155,
+    "id" : 29,
+    "bookTitle" : "caso N’Gustro, El",
+    "year" : 1971,
+    "originalTitle" : "L’affaire N’Gustro"
+  },
+  {
+    "status" : "Leído",
+    "author" : "Manchette, Jean-Patrick",
+    "pages" : 126,
+    "id" : 30,
+    "bookTitle" : "Balada de la costa oeste",
+    "year" : 1977,
+    "originalTitle" : "Petit bleu de la côte ouest, Le"
+  },
+  {
+    "status" : "Leído",
+    "author" : "Gamow, George",
+    "pages" : 49,
+    "id" : 31,
+    "bookTitle" : "país de las maravillas, El",
+    "year" : 1939,
+    "originalTitle" : "Mr. Tompkins in Wonderland"
+  },
+  {
+    "status" : "No leído",
+    "author" : "Smullyan, Raymond M.",
+    "pages" : 173,
+    "id" : 32,
+    "bookTitle" : "¿Cómo se llama este libro?",
+    "year" : 1978,
+    "originalTitle" : "What is the name of this book?"
+  },
+  {
+    "status" : "Leído",
+    "author" : "Howard, Robert E.",
+    "pages" : 320,
+    "id" : 33,
+    "bookTitle" : "Conan el Cimmerio 1",
+    "year" : 1932,
+    "originalTitle" : "Cimmeria"
+  },
+  {
+    "status" : "No leído",
+    "author" : "Howard, Robert E.",
+    "pages" : 441,
+    "id" : 34,
+    "bookTitle" : "Brachan el celta y otros recuerdos raciales",
+    "year" : 1932,
+    "originalTitle" : "Brachan the celt"
+  },
+  {
+    "status" : "Leído",
+    "author" : "Poe, Edgar Allan",
+    "pages" : 8,
+    "id" : 35,
+    "bookTitle" : "cuervo, El",
+    "year" : 1845,
+    "originalTitle" : "Raven, The"
+  },
+  {
+    "status" : "Leído",
+    "author" : "Howard, Robert E.",
+    "pages" : 187,
+    "id" : 36,
+    "bookTitle" : "Santuario de buitres",
+    "year" : 1932,
+    "originalTitle" : "Vulture sanctuary"
+  },
+  {
+    "status" : "No leído",
+    "author" : "Howard, Robert E.",
+    "pages" : 198,
+    "id" : 37,
+    "bookTitle" : "Conan",
+    "year" : 1936,
+    "originalTitle" : "Conan"
+  },
+  {
+    "status" : "Leído",
+    "author" : "Howard, Robert E.",
+    "pages" : 364,
+    "id" : 38,
+    "bookTitle" : "Halcones de ultramar",
+    "year" : 1933,
+    "originalTitle" : "Overseas hawks"
+  },
+  {
+    "status" : "No leído",
+    "author" : "Howard, Robert E.",
+    "pages" : 305,
+    "id" : 39,
+    "bookTitle" : "isla de los eones, La",
+    "year" : 1933,
+    "originalTitle" : "Rebel, The"
+  },
+  {
+    "status" : "Leído",
+    "author" : "Howard, Robert E.",
+    "pages" : 191,
+    "id" : 40,
+    "bookTitle" : "Conan el pirata",
+    "year" : 1933,
+    "originalTitle" : "Conan the freebooter"
+  },
+  {
+    "status" : "Leído",
+    "author" : "AA. VV.",
+    "pages" : 230,
+    "id" : 41,
+    "bookTitle" : "crimen perfecto, El",
+    "year" : 2010,
+    "originalTitle" : "Crimen perfecto, El"
+  },
+  {
+    "status" : "Leído",
+    "author" : "Harris, Robert",
+    "pages" : 325,
+    "id" : 42,
+    "bookTitle" : "Patria",
+    "year" : 1992,
+    "originalTitle" : "Fatherland"
+  },
+  {
+    "status" : "Leído",
+    "author" : "Howard, Robert E.",
+    "pages" : 359,
+    "id" : 43,
+    "bookTitle" : "gusanos de la tierra, Los",
+    "year" : 1932,
+    "originalTitle" : "Worms of the earth"
+  },
+  {
+    "status" : "Leído",
+    "author" : "Cook, Glen",
+    "pages" : 244,
+    "id" : 44,
+    "bookTitle" : "primera crónica, La",
+    "year" : 1984,
+    "originalTitle" : "First chronicle, The"
+  },
+  {
+    "status" : "No leído",
+    "author" : "Salgari, Emilio",
+    "pages" : 217,
+    "id" : 45,
+    "bookTitle" : "misterios de la jungla negra, Los",
+    "year" : 1895,
+    "originalTitle" : "Misteri della Jungla Nera, I"
+  },
+  {
+    "status" : "Registrado",
+    "author" : "Connelly, Michael",
+    "pages" : 286,
+    "id" : 46,
+    "bookTitle" : "Llamada perdida",
+    "year" : 2002,
+    "originalTitle" : "Chasing the dime"
+  },
+  {
+    "status" : "Leído",
+    "author" : "Golding, William",
+    "pages" : 169,
+    "id" : 47,
+    "bookTitle" : "señor de las moscas, El",
+    "year" : 1954,
+    "originalTitle" : "Lord of the flies"
+  },
+  {
+    "status" : "Leído",
+    "author" : "Le Carré, John",
+    "pages" : 146,
+    "id" : 48,
+    "bookTitle" : "Llamada para el muerto",
+    "year" : 1961,
+    "originalTitle" : "Call for the dead"
+  },
+  {
+    "status" : "Leído",
+    "author" : "Cook, Glen",
+    "pages" : 307,
+    "id" : 49,
+    "bookTitle" : "Sombras fluctuantes",
+    "year" : 1984,
+    "originalTitle" : "Shadows linger"
+  },
+  {
+    "status" : "Leído",
+    "author" : "Simenon, Georges",
+    "pages" : 121,
+    "id" : 50,
+    "bookTitle" : "Pietr, el Letón",
+    "year" : 1931,
+    "originalTitle" : "Pietr le Letton"
+  },
+  {
+    "status" : "Registrado",
+    "author" : "Hammett, Dashiell",
+    "pages" : 250,
+    "id" : 51,
+    "bookTitle" : "Todos los casos de Sam Spade",
+    "year" : 1930,
+    "originalTitle" : "Maltesse Falcon, The"
+  },
+  {
+    "status" : "Leído",
+    "author" : "Lovecraft, H.P.",
+    "pages" : 121,
+    "id" : 52,
+    "bookTitle" : "En las montañas de la locura",
+    "year" : 1936,
+    "originalTitle" : "At the mountains of madness"
+  },
+  {
+    "status" : "Leído",
+    "author" : "Lovecraft, H.P.",
+    "pages" : 39,
+    "id" : 53,
+    "bookTitle" : "llamada de Cthulhu, La",
+    "year" : 1928,
+    "originalTitle" : "Call of Cthulhu, The"
+  },
+  {
+    "status" : "Leído",
+    "author" : "Greene, Graham",
+    "pages" : 108,
+    "id" : 54,
+    "bookTitle" : "tercer hombre, El",
+    "year" : 1950,
+    "originalTitle" : "Third man, The"
+  },
+  {
+    "status" : "Registrado",
+    "author" : "Burroughs, Edgar Rice",
+    "pages" : 201,
+    "id" : 55,
+    "bookTitle" : "Tarzán de los monos",
+    "year" : 1912,
+    "originalTitle" : "Tarzan of the apes"
+  },
+  {
+    "status" : "Leído",
+    "author" : "Burroughs, Edgar Rice",
+    "pages" : 151,
+    "id" : 56,
+    "bookTitle" : "En el corazón de la Tierra",
+    "year" : 1914,
+    "originalTitle" : "At the Earth’s core"
+  },
+  {
+    "status" : "Registrado",
+    "author" : "Burroughs, Edgar Rice",
+    "pages" : 191,
+    "id" : 57,
+    "bookTitle" : "Una princesa de Marte",
+    "year" : 1912,
+    "originalTitle" : "Princess of Mars, A"
+  },
+  {
+    "status" : "Registrado",
+    "author" : "Golden, Christie",
+    "pages" : 245,
+    "id" : 58,
+    "bookTitle" : "ascenso de la Horda, El",
+    "year" : 2007,
+    "originalTitle" : "Rise of the Horde, The"
+  },
+  {
+    "status" : "Leído",
+    "author" : "Cook, Glen",
+    "pages" : 345,
+    "id" : 59,
+    "bookTitle" : "Rosa Blanca, La",
+    "year" : 1984,
+    "originalTitle" : "White Rose, The"
+  },
+  {
+    "status" : "Leído",
+    "author" : "Connelly, Michael",
+    "pages" : 292,
+    "id" : 60,
+    "bookTitle" : "Luna funesta",
+    "year" : 2000,
+    "originalTitle" : "Void moon"
+  },
+  {
+    "status" : "Leído",
+    "author" : "Burroughs, Edgar Rice",
+    "pages" : 171,
+    "id" : 61,
+    "bookTitle" : "Pellucidar",
+    "year" : 1915,
+    "originalTitle" : "Pellucidar"
+  },
+  {
+    "status" : "Leído",
+    "author" : "Asimov, Isaac",
+    "pages" : 130,
+    "id" : 62,
+    "bookTitle" : "ranger del espacio, El",
+    "year" : 1952,
+    "originalTitle" : "David Starr, space ranger"
+  },
+  {
+    "status" : "Registrado",
+    "author" : "Nesbø, Jo",
+    "pages" : 222,
+    "id" : 63,
+    "bookTitle" : "Headhunters",
+    "year" : 2008,
+    "originalTitle" : "Headhunters"
+  },
+  {
+    "status" : "Registrado",
+    "author" : "Asimov, Isaac",
+    "pages" : 131,
+    "id" : 64,
+    "bookTitle" : "piratas de los asteroides, Los",
+    "year" : 1953,
+    "originalTitle" : "Lucky Starr and the pirates of the asteroids"
+  },
+  {
+    "status" : "Registrado",
+    "author" : "Villar, Domingo",
+    "pages" : 369,
+    "id" : 65,
+    "bookTitle" : "playa de los ahogados, La",
+    "year" : 2009,
+    "originalTitle" : "Playa de los ahogados, La"
+  },
+  {
+    "status" : "Registrado",
+    "author" : "Burroughs, Edgar Rice",
+    "pages" : 213,
+    "id" : 66,
+    "bookTitle" : "Tanar de Pellucidar",
+    "year" : 1929,
+    "originalTitle" : "Tanar of Pellucidar"
+  },
+  {
+    "status" : "Registrado",
+    "author" : "Villar, Domingo",
+    "pages" : 161,
+    "id" : 67,
+    "bookTitle" : "Ojos de agua",
+    "year" : 2006,
+    "originalTitle" : "Ollos de auga"
+  },
+  {
+    "status" : "Registrado",
+    "author" : "Cook, Glen",
+    "pages" : 288,
+    "id" : 68,
+    "bookTitle" : "clavo de plata, El",
+    "year" : 1989,
+    "originalTitle" : "Silver spike, The"
+  },
+  {
+    "status" : "Registrado",
+    "author" : "Charteris, Leslie",
+    "pages" : 181,
+    "id" : 69,
+    "bookTitle" : "Santo contra el Tigre, El",
+    "year" : 1928,
+    "originalTitle" : "Meet the Tiger!"
+  },
+  {
+    "status" : "Registrado",
+    "author" : "Vázquez-Figueroa, Alberto",
+    "pages" : 234,
+    "id" : 70,
+    "bookTitle" : "Piratas",
+    "year" : 1996,
+    "originalTitle" : "Piratas"
+  },
+  {
+    "status" : "Registrado",
+    "author" : "Vázquez-Figueroa, Alberto",
+    "pages" : 215,
+    "id" : 71,
+    "bookTitle" : "Negreros",
+    "year" : 1996,
+    "originalTitle" : "Negreros"
+  },
+  {
+    "status" : "Registrado",
+    "author" : "Vázquez-Figueroa, Alberto",
+    "pages" : 190,
+    "id" : 72,
+    "bookTitle" : "León Bocanegra",
+    "year" : 1998,
+    "originalTitle" : "León Bocanegra"
+  },
+  {
+    "status" : "Registrado",
+    "author" : "Thilliez, Franck",
+    "pages" : 302,
+    "id" : 73,
+    "bookTitle" : "ángel rojo, El",
+    "year" : 2004,
+    "originalTitle" : "Train d’enfer pour Ange Rouge"
+  },
+  {
+    "status" : "Registrado",
+    "author" : "Grey, Zane",
+    "pages" : 273,
+    "id" : 74,
+    "bookTitle" : "herencia del desierto, La",
+    "year" : 1910,
+    "originalTitle" : "heritage of the desert, The"
+  },
+  {
+    "status" : "Registrado",
+    "author" : "King, William",
+    "pages" : 258,
+    "id" : 75,
+    "bookTitle" : "Matatrolls",
+    "year" : 1999,
+    "originalTitle" : "Trollslayer"
+  },
+  {
+    "status" : "Registrado",
+    "author" : "Werner, C. L.",
+    "pages" : 245,
+    "id" : 76,
+    "bookTitle" : "Dinero sangriento",
+    "year" : 2003,
+    "originalTitle" : "Blood money"
+  },
+  {
+    "status" : "Registrado",
+    "author" : "Galfard, Christophe",
+    "pages" : 332,
+    "id" : 77,
+    "bookTitle" : "universo en tu mano, El",
+    "year" : 2006,
+    "originalTitle" : "universe in your hand, The"
+  },
+  {
+    "status" : "Registrado",
+    "author" : "Charteris, Leslie",
+    "pages" : 220,
+    "id" : 78,
+    "bookTitle" : "Santo en Tenerife, El",
+    "year" : 1937,
+    "originalTitle" : "Thieves’ picnic"
+  },
+  {
+    "status" : "Registrado",
+    "author" : "Delgado Bañón, Luis M.",
+    "pages" : 262,
+    "id" : 79,
+    "bookTitle" : "galera “Santa Bárbara”, La",
+    "year" : 2002,
+    "originalTitle" : "galera “Santa Bárbara”, La"
+  },
+  {
+    "status" : "No leído",
+    "author" : "Frutiger, Adrian",
+    "pages" : 168,
+    "id" : 80,
+    "bookTitle" : "libro de la tipografía, El",
+    "year" : 2005,
+    "originalTitle" : "Adrian Frutigers buch der schriften"
+  },
+  {
+    "status" : "Registrado",
+    "author" : "Scalzi, John",
+    "pages" : 237,
+    "id" : 81,
+    "bookTitle" : "vieja guardia, La",
+    "year" : 2005,
+    "originalTitle" : "Old man’s war"
+  },
+  {
+    "status" : "Registrado",
+    "author" : "Delgado Bañón, Luis M.",
+    "pages" : 247,
+    "id" : 82,
+    "bookTitle" : "cañonera 23, La",
+    "year" : 2002,
+    "originalTitle" : "cañonera 23, La"
+  },
+  {
+    "status" : "Registrado",
+    "author" : "King, William",
+    "pages" : 274,
+    "id" : 83,
+    "bookTitle" : "Lobo espacial",
+    "year" : 1999,
+    "originalTitle" : "Space wolf"
+  },
+  {
+    "status" : "Registrado",
+    "author" : "Clarke, Arthur C.",
+    "pages" : 234,
+    "id" : 84,
+    "bookTitle" : "2001: Una odisea espacial",
+    "year" : 1968,
+    "originalTitle" : "2001: A space odyssey"
+  },
+  {
+    "status" : "Registrado",
+    "author" : "Cercas, Javier",
+    "pages" : 415,
+    "id" : 85,
+    "bookTitle" : "Terra Alta",
+    "year" : 2019,
+    "originalTitle" : "Terra Alta"
+  },
+  {
+    "status" : "Registrado",
+    "author" : "Cabanas, Antonio",
+    "pages" : 230,
+    "id" : 86,
+    "bookTitle" : "secretos de Osiris, Los",
+    "year" : 2006,
+    "originalTitle" : "secretos de Osiris, Los"
+  },
+  {
+    "status" : "Registrado",
+    "author" : "Cabanas, Antonio",
+    "pages" : 391,
+    "id" : 87,
+    "bookTitle" : "sueño milenario, El",
+    "year" : 2008,
+    "originalTitle" : "sueño milenario, El"
+  },
+  {
+    "status" : "Registrado",
+    "author" : "González-Ripoll, Juan Luis",
+    "pages" : 170,
+    "id" : 88,
+    "bookTitle" : "Narraciones de caza mayor en Cazorla",
+    "year" : 1974,
+    "originalTitle" : "Narraciones de caza mayor en Cazorla"
+  },
+  {
+    "status" : "No leído",
+    "author" : "Manfredi, Valerio Massino",
+    "pages" : 291,
+    "id" : 89,
+    "bookTitle" : "faraón del desierto, El",
+    "year" : 1998,
+    "originalTitle" : "faraone delle sabbie, Il"
+  },
+  {
+    "status" : "Registrado",
+    "author" : "Manfredi, Valerio Massino",
+    "pages" : 357,
+    "id" : 90,
+    "bookTitle" : "imperio de los dragones, El",
+    "year" : 2005,
+    "originalTitle" : "L’impero dei draghi"
+  },
+  {
+    "status" : "Registrado",
+    "author" : "Preston, Douglas",
+    "pages" : 379,
+    "id" : 91,
+    "bookTitle" : "relic, The",
+    "year" : 1995,
+    "originalTitle" : "relic, The"
+  },
+  {
+    "status" : "No leído",
+    "author" : "Sendarrubias, Tomás",
+    "pages" : 772,
+    "id" : 92,
+    "bookTitle" : "guerra relámpago, La",
+    "year" : 2017,
+    "originalTitle" : "guerra relámpago, La"
+  },
+  {
+    "status" : "Registrado",
+    "author" : "Sendarrubias, Tomás",
+    "pages" : 772,
+    "id" : 93,
+    "bookTitle" : "Cortes de la Tormenta, Las",
+    "year" : 2016,
+    "originalTitle" : "Cortes de la Tormenta, Las"
+  },
+  {
+    "status" : "No leído",
+    "author" : "Sendarrubias, Tomás",
+    "pages" : 772,
+    "id" : 94,
+    "bookTitle" : "reinas del trueno, Las",
+    "year" : 2018,
+    "originalTitle" : "reinas del trueno, Las"
+  },
+  {
+    "status" : "Registrado",
+    "author" : "Vázquez-Figueroa, Alberto",
+    "pages" : 152,
+    "id" : 95,
+    "bookTitle" : "Nuevos dioses",
+    "year" : 1995,
+    "originalTitle" : "Nuevos dioses"
+  },
+  {
+    "status" : "Registrado",
+    "author" : "Napier, William",
+    "pages" : 362,
+    "id" : 96,
+    "bookTitle" : "fin del mundo vendrá del este, El",
+    "year" : 2007,
+    "originalTitle" : "Attila"
+  },
+  {
+    "status" : "Registrado",
+    "author" : "Pratchett, Terry",
+    "pages" : 169,
+    "id" : 97,
+    "bookTitle" : "color de la magia, El",
+    "year" : 1983,
+    "originalTitle" : "colour of magic, The"
+  },
+  {
+    "status" : "No leído",
+    "author" : "Sveistrup, Søren",
+    "pages" : 532,
+    "id" : 98,
+    "bookTitle" : "caso Hartung, El",
+    "year" : 2018,
+    "originalTitle" : "Kastanjemanden"
+  },
+  {
+    "status" : "No leído",
+    "author" : "Martín, Ibon",
+    "pages" : 387,
+    "id" : 99,
+    "bookTitle" : "faro del silencio, El",
+    "year" : 2014,
+    "originalTitle" : "faro del silencio, El"
+  },
+  {
+    "status" : "Registrado",
+    "author" : "Forsyth, Frederick",
+    "pages" : 278,
+    "id" : 100,
+    "bookTitle" : "veterano, El",
+    "year" : 2001,
+    "originalTitle" : "veteran, The"
+  },
+  {
+    "status" : "No leído",
+    "author" : "Christie, Agatha",
+    "pages" : 179,
+    "id" : 101,
+    "bookTitle" : "Cita con la muerte",
+    "year" : 1938,
+    "originalTitle" : "Appointment with death"
+  },
+  {
+    "status" : "No leído",
+    "author" : "Christie, Agatha",
+    "pages" : 159,
+    "id" : 102,
+    "bookTitle" : "Maldad bajo el sol",
+    "year" : 1941,
+    "originalTitle" : "Evil under the sun"
+  },
+  {
+    "status" : "Registrado",
+    "author" : "Dickson, Carter",
+    "pages" : 193,
+    "id" : 103,
+    "bookTitle" : "Sangre en el espejo de la reina",
+    "year" : 1934,
+    "originalTitle" : "white priory murders, The"
+  },
+  {
+    "status" : "Registrado",
+    "author" : "Follett, Ken",
+    "pages" : 313,
+    "id" : 104,
+    "bookTitle" : "Triple",
+    "year" : 1979,
+    "originalTitle" : "Triple"
+  },
+  {
+    "status" : "Registrado",
+    "author" : "Gardner, Earle Stanley",
+    "pages" : 172,
+    "id" : 105,
+    "bookTitle" : "caso de las garras de terciopelo, El",
+    "year" : 1933,
+    "originalTitle" : "case of the velvet claws, The"
+  }
+]
